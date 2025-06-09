@@ -15,8 +15,8 @@
 #define SWITCH2_PIN 16
 #define SWITCH3_PIN 13
 #define SWITCH4_PIN 4
-#define SWITCH5_PIN 16
-#define SWITCH6_PIN 15
+#define SWITCH5_PIN 15
+#define SWITCH6_PIN 12
 
 //======================= 外部 HomeKit 特性声明 ========================
 extern "C" homekit_server_config_t config;
